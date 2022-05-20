@@ -1,0 +1,240 @@
+<html>
+<head><title>Gross rating</title></head>
+<table >
+<tr><th>Rank</th><th>Movie</th><th>Release<br>Date</th>
+<th>Theatrical<br>Distributor</th><th>MPAA<br>Rating</th><th>Gross</th><th>Tickets Sold</th></tr>
+<tr>
+<td class="data">1</td>
+<td><b><a href="/movie/Goosebumps#tab=summary">Goosebumps</b></td>
+<td><a href="/box-office-chart/daily/2015/10/16">Oct 16, 2015</a></td>
+<td><a href="/market/distributor/Sony-Pictures">Sony Pictures</a></td>
+<td><a href="/market/mpaa-rating/PG-(US)">PG</a></td>
+<td class="data">$79,132,868</td>
+<td class="data">9,387,054</td>
+</tr>
+<tr>
+<td class="data">2</td>
+<td><b><a href="/movie/Visit-The-(2015)#tab=summary">The Visit</b></td>
+<td><a href="/box-office-chart/daily/2015/09/11">Sep 11, 2015</a></td>
+<td><a href="/market/distributor/Universal">Universal</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$65,206,105</td>
+<td class="data">7,735,007</td>
+</tr>
+<tr>
+<td class="data">3</td>
+<td><b><a href="/movie/Insidious-Chapter-3#tab=summary">Insidious: Chapter 3</b></td>
+<td><a href="/box-office-chart/daily/2015/06/05">Jun 5, 2015</a></td>
+<td><a href="/market/distributor/Focus-Features">Focus Features</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$52,218,558</td>
+<td class="data">6,194,372</td>
+</tr>
+<tr>
+<td class="data">4</td>
+<td><b><a href="/movie/Poltergeist-(2014)#tab=summary">Poltergeist</b></td>
+<td><a href="/box-office-chart/daily/2015/05/22">May 22, 2015</a></td>
+<td><a href="/market/distributor/20th-Century-Fox">20th Century Fox</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$47,425,125</td>
+<td class="data">5,625,756</td>
+</tr>
+<tr>
+<td class="data">5</td>
+<td><b><a href="/movie/Krampus#tab=summary">Krampus</b></td>
+<td><a href="/box-office-chart/daily/2015/12/04">Dec 4, 2015</a></td>
+<td><a href="/market/distributor/Universal">Universal</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$42,277,730</td>
+<td class="data">5,015,151</td>
+</tr>
+<tr>
+<td class="data">6</td>
+<td><b><a href="/movie/Unfriended#tab=summary">Unfriended</b></td>
+<td><a href="/box-office-chart/daily/2015/04/17">Apr 17, 2015</a></td>
+<td><a href="/market/distributor/Universal">Universal</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$32,789,645</td>
+<td class="data">3,889,638</td>
+</tr>
+<tr>
+<td class="data">7</td>
+<td><b><a href="/movie/Crimson-Peak#tab=summary">Crimson Peak</b></td>
+<td><a href="/box-office-chart/daily/2015/10/16">Oct 16, 2015</a></td>
+<td><a href="/market/distributor/Universal">Universal</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$31,090,320</td>
+<td class="data">3,688,057</td>
+</tr>
+<tr>
+<td class="data">8</td>
+<td><b><a href="/movie/Sinister-2#tab=summary">Sinister 2</b></td>
+<td><a href="/box-office-chart/daily/2015/08/21">Aug 21, 2015</a></td>
+<td><a href="/market/distributor/Focus-Features">Focus Features</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$27,740,955</td>
+<td class="data">3,290,741</td>
+</tr>
+<tr>
+<td class="data">9</td>
+<td><b><a href="/movie/Lazarus-Effect-The#tab=summary">The Lazarus Effect</b></td>
+<td><a href="/box-office-chart/daily/2015/02/27">Feb 27, 2015</a></td>
+<td><a href="/market/distributor/Lionsgate">Lionsgate</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$25,801,570</td>
+<td class="data">3,060,684</td>
+</tr>
+<tr>
+<td class="data">10</td>
+<td><b><a href="/movie/Gallows-The#tab=summary">The Gallows</b></td>
+<td><a href="/box-office-chart/daily/2015/07/10">Jul 10, 2015</a></td>
+<td><a href="/market/distributor/Warner-Bros">Warner Bros.</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$22,764,410</td>
+<td class="data">2,700,404</td>
+</tr>
+<tr>
+<td class="data">11</td>
+<td><b><a href="/movie/Paranormal-Activity-The-Ghost-Dimension#tab=summary">Paranormal Activity: The Ghost Dimension</b></td>
+<td><a href="/box-office-chart/daily/2015/10/23">Oct 23, 2015</a></td>
+<td><a href="/market/distributor/Paramount-Pictures">Paramount Pictures</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$18,297,124</td>
+<td class="data">2,170,477</td>
+</tr>
+<tr>
+<td class="data">12</td>
+<td><b><a href="/movie/It-Follows#tab=summary">It Follows</b></td>
+<td><a href="/box-office-chart/daily/2015/03/13">Mar 13, 2015</a></td>
+<td><a href="/market/distributor/RADiUS-TWC">RADiUS-TWC</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$14,674,077</td>
+<td class="data">1,740,697</td>
+</tr>
+<tr>
+<td class="data">13</td>
+<td><b><a href="/movie/Woman-in-Black-2-Angel-of-Death-The-(2015)#tab=summary">The Woman in Black 2: Angel of Death</b></td>
+<td><a href="/box-office-chart/daily/2015/01/02">Jan 2, 2015</a></td>
+<td><a href="/market/distributor/Relativity">Relativity</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$11,473,908</td>
+<td class="data">1,361,080</td>
+</tr>
+<tr>
+<td class="data">14</td>
+<td><b><a href="/movie/Green-Inferno-The#tab=summary">The Green Inferno</b></td>
+<td><a href="/box-office-chart/daily/2015/09/25">Sep 25, 2015</a></td>
+<td><a href="/market/distributor/High-Top-Releasing">High Top Releasing</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$7,192,291</td>
+<td class="data">853,178</td>
+</tr>
+<tr>
+<td class="data">15</td>
+<td><b><a href="/movie/Vatican-Tapes-The#tab=summary">The Vatican Tapes</b></td>
+<td><a href="/box-office-chart/daily/2015/07/24">Jul 24, 2015</a></td>
+<td><a href="/market/distributor/Lionsgate">Lionsgate</a></td>
+<td><a href="/market/mpaa-rating/PG-13-(US)">PG-13</a></td>
+<td class="data">$1,784,763</td>
+<td class="data">211,715</td>
+</tr>
+<tr>
+<td class="data">16</td>
+<td><b><a href="/movie/Ich-seh-Ich-seh#tab=summary">Ich seh, Ich seh</b></td>
+<td><a href="/box-office-chart/daily/2015/09/11">Sep 11, 2015</a></td>
+<td><a href="/market/distributor/RADiUS-TWC">RADiUS-TWC</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$1,178,196</td>
+<td class="data">139,762</td>
+</tr>
+<tr>
+<td class="data">17</td>
+<td><b><a href="/movie/Girl-Walks-Home-Alone-at-Night-A#tab=summary">A Girl Walks Home Alone at &hellip;</b></td>
+<td><a href="/box-office-chart/daily/2014/11/21">Nov 21, 2014</a></td>
+<td><a href="/market/distributor/Kino-Lorber">Kino Lorber</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$385,325</td>
+<td class="data">45,708</td>
+</tr>
+<tr>
+<td class="data">18</td>
+<td><b><a href="/movie/Babadook-The#tab=summary">The Babadook</b></td>
+<td><a href="/box-office-chart/daily/2014/11/28">Nov 28, 2014</a></td>
+<td><a href="/market/distributor/IFC-Midnight">IFC Midnight</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$208,700</td>
+<td class="data">24,756</td>
+</tr>
+<tr>
+<td class="data">19</td>
+<td><b><a href="/movie/Pyramid-The#tab=summary">The Pyramid</b></td>
+<td><a href="/box-office-chart/daily/2014/12/05">Dec 5, 2014</a></td>
+<td><a href="/market/distributor/20th-Century-Fox">20th Century Fox</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$60,598</td>
+<td class="data">7,188</td>
+</tr>
+<tr>
+<td class="data">20</td>
+<td><b><a href="/movie/Spring-(2014)#tab=summary">Spring</b></td>
+<td><a href="/box-office-chart/daily/2015/03/17">Mar 17, 2015</a></td>
+<td><a href="/market/distributor/Drafthouse-Films">Drafthouse Films</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$49,970</td>
+<td class="data">5,927</td>
+</tr>
+<tr>
+<td class="data">21</td>
+<td><b><a href="/movie/Nightmare-The#tab=summary">The Nightmare</b></td>
+<td><a href="/box-office-chart/daily/2015/06/05">Jun 5, 2015</a></td>
+<td><a href="/market/distributor/Gravitas-Ventures">Gravitas Ventures</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$28,281</td>
+<td class="data">3,354</td>
+</tr>
+<tr>
+<td class="data">22</td>
+<td><b><a href="/movie/Human-Centipede-3-The#tab=summary">The Human Centipede 3 (Fina&hellip;</b></td>
+<td><a href="/box-office-chart/daily/2015/05/22">May 22, 2015</a></td>
+<td><a href="/market/distributor/IFC-Midnight">IFC Midnight</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$14,562</td>
+<td class="data">1,727</td>
+</tr>
+<tr>
+<td class="data">23</td>
+<td><b><a href="/movie/Hallow-The#tab=summary">The Hallow</b></td>
+<td><a href="/box-office-chart/daily/2015/11/13">Nov 13, 2015</a></td>
+<td><a href="/market/distributor/IFC-Midnight">IFC Midnight</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$8,967</td>
+<td class="data">1,063</td>
+</tr>
+<tr>
+<td class="data">24</td>
+<td><b><a href="/movie/Hayride-2#tab=summary">Hayride 2</b></td>
+<td><a href="/box-office-chart/daily/2015/03/06">Mar 6, 2015</a></td>
+<td><a href="/market/distributor/Freestyle-Releasing">Freestyle Releasing</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$2,571</td>
+<td class="data">304</td>
+</tr>
+<tr>
+<td class="data">25</td>
+<td><b><a href="/movie/Dark-Forest#tab=summary">Dark Forest</b></td>
+<td><a href="/box-office-chart/daily/2015/08/14">Aug 14, 2015</a></td>
+<td><a href="/market/distributor/Zell-Koj-Studio">Zell-Koj Studio</a></td>
+<td><a href="/market/mpaa-rating/Not-Rated-(US)">Not Rated</a></td>
+<td class="data">$1,739</td>
+<td class="data">206</td>
+</tr>
+<tr>
+<td class="data">26</td>
+<td><b><a href="/movie/REC-4-Apocalypse#tab=summary">Scouts Guide to the Zombie Apocalypse</b></td>
+<td><a href="/box-office-chart/daily/2015/01/02">Jan 2, 2015</a></td>
+<td><a href="/market/distributor/Magnolia-Pictures">Magnolia Pictures</a></td>
+<td><a href="/market/mpaa-rating/R-(US)">R</a></td>
+<td class="data">$129</td>
+<td class="data">15</td>
+</tr>
+</table>
